@@ -1,0 +1,269 @@
+{
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "text": "REQUIRE",
+              "weight": "bold",
+              "color": "#1DB446",
+              "size": "sm",
+              "type": "text"
+            },
+            {
+              "text": "品項",
+              "weight": "bold",
+              "size": "xxl",
+              "margin": "md",
+              "type": "text"
+            },
+            {
+              "text": "市場地點",
+              "size": "xs",
+              "margin": "xs",
+              "color": "#aaaaaa",
+              "wrap": true,
+              "type": "text"
+            },
+            {
+              "layout": "horizontal",
+              "margin": "xl",
+              "contents": [
+                {
+                  "text": "品項",
+                  "size": "sm",
+                  "color": "#555555",
+                  "type": "text"
+                },
+                {
+                  "text": "數量(單位)",
+                  "size": "sm",
+                  "color": "#111111",
+                  "align": "end",
+                  "type": "text"
+                }
+              ],
+              "type": "box"
+            },
+            {
+              "margin": "xs",
+              "type": "separator"
+            },
+            {
+              "margin": "xl",
+              "layout": "vertical",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "text": "Engergy Drink",
+                      "size": "sm",
+                      "color": "#555555",
+                      "type": "text"
+                    },
+                    {
+                      "text": "600(ml)",
+                      "size": "sm",
+                      "color": "#111111",
+                      "align": "end",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "box"
+                }
+              ],
+              "type": "box"
+            },
+            {
+              "margin": "xxl",
+              "type": "separator"
+            },
+            {
+              "layout": "horizontal",
+              "margin": "xxl",
+              "contents": [
+                {
+                  "text": "總數",
+                  "size": "sm",
+                  "color": "#555555",
+                  "type": "text"
+                },
+                {
+                  "text": "3",
+                  "size": "sm",
+                  "color": "#111111",
+                  "align": "end",
+                  "type": "text"
+                }
+              ],
+              "type": "box"
+            },
+            {
+              "margin": "xxl",
+              "type": "separator"
+            },
+            {
+              "margin": "md",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "style": "primary",
+                  "color": "#aaaaaa",
+                  "action": {
+                    "type": "uri",
+                    "label": "採購員A",
+                    "uri": "https://www.yahoo.com.tw"
+                  },
+                  "type": "button"
+                }
+              ],
+              "type": "box"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "styles": {
+          "footer": {
+            "separator": true
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "text": "REQUIRE",
+              "weight": "bold",
+              "color": "#1DB446",
+              "size": "sm",
+              "type": "text"
+            },
+            {
+              "text": "品項",
+              "weight": "bold",
+              "size": "xxl",
+              "margin": "md",
+              "type": "text"
+            },
+            {
+              "text": "市場地點",
+              "size": "xs",
+              "margin": "xs",
+              "color": "#aaaaaa",
+              "wrap": true,
+              "type": "text"
+            },
+            {
+              "layout": "horizontal",
+              "margin": "xl",
+              "contents": [
+                {
+                  "text": "品項",
+                  "size": "sm",
+                  "color": "#555555",
+                  "type": "text"
+                },
+                {
+                  "text": "數量(單位)",
+                  "size": "sm",
+                  "color": "#111111",
+                  "align": "end",
+                  "type": "text"
+                }
+              ],
+              "type": "box"
+            },
+            {
+              "margin": "xs",
+              "type": "separator"
+            },
+            {
+              "margin": "xl",
+              "layout": "vertical",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "text": "Engergy Drink",
+                      "size": "sm",
+                      "color": "#555555",
+                      "type": "text"
+                    },
+                    {
+                      "text": "600(ml)",
+                      "size": "sm",
+                      "color": "#111111",
+                      "align": "end",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "box"
+                }
+              ],
+              "type": "box"
+            },
+            {
+              "margin": "xxl",
+              "type": "separator"
+            },
+            {
+              "layout": "horizontal",
+              "margin": "xxl",
+              "contents": [
+                {
+                  "text": "總數",
+                  "size": "sm",
+                  "color": "#555555",
+                  "type": "text"
+                },
+                {
+                  "text": "3",
+                  "size": "sm",
+                  "color": "#111111",
+                  "align": "end",
+                  "type": "text"
+                }
+              ],
+              "type": "box"
+            },
+            {
+              "margin": "xxl",
+              "type": "separator"
+            },
+            {
+              "margin": "md",
+              "layout": "horizontal",
+              "contents": [
+                {
+                  "style": "primary",
+                  "color": "#aaaaaa",
+                  "action": {
+                    "type": "uri",
+                    "label": "採購員A",
+                    "uri": "https://www.yahoo.com.tw"
+                  },
+                  "type": "button"
+                }
+              ],
+              "type": "box"
+            }
+          ]
+        }
+      }
+    ]
+  }
